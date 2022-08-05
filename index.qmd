@@ -1,5 +1,5 @@
 ---
-title: "Geoscience_DEI_Course"
+title: "Geoscience DEI Course"
 ---
 
 This is a Quarto website.
