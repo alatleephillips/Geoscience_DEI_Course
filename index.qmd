@@ -2,10 +2,5 @@
 title: "Geoscience DEI Course"
 ---
 
-This is a Quarto website.
+This is the course website for Earth 194DE: Readings in Geoscience DEI. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
